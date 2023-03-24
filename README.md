@@ -10,6 +10,6 @@ Script allow you to save last segment of default gateway, network mask, DNS1, DN
 
 ------------------------------------------------------
 SI:
-Powershell skripta za hitro spreminjanje IP naslovov.
+PowerShell skripta za hitro spreminjanje IP naslovov.
 
 Skripta uporabniku dovoljuje shranitev zadnjega segmenta privzetega prehoda, maske, DNS1, DNS2 in omrežnega adapterja; za hitro spremembo. Uproabnik mora tako vpisati le želen IP naslov. Omogoča pa tudi popoln vnos IP podatkov in DHCP.
